@@ -1,0 +1,46 @@
+.webmain{background-color: black;}
+.title{color: rgb(180, 129, 29);
+    font-size: 100px;
+    font-style: Lucida Handwriting;
+    text-align: center;
+    line-height: 0px;}
+.subtitle{color: rgb(180, 129, 29);
+    font-size: 40px;
+    text-align: center;
+    font-family: cursive;
+    line-height: 0px;}
+.box{ display: flex;}
+.gryf{ background-color: rgb(183, 64, 17);
+    text-align: center;
+    border-radius: 5%;
+    height: 600px;
+    width: 500px;
+    margin-right: 10px;
+    margin-left: 5px;
+
+
+}
+.slyth{background-color: rgb(7, 55, 22);
+    text-align: center;
+    border-radius: 5%;
+    height: 600px;
+    width: 500px;
+    margin-right: 10px;
+
+}
+.raven{background-color: #162c52;
+    text-align: center;
+    border-radius: 5%;
+    height: 600px;
+    width: 500px;
+    margin-right: 10px;
+
+}
+.huffle {background-color: #b7a30e;
+    text-align: center;
+    border-radius: 5%;
+    height: 600px;
+    width: 500px;
+    margin-right: 10px;
+
+}
